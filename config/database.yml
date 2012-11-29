@@ -15,7 +15,7 @@ test:
   adapter: postgresql
   encoding: utf8
   reconnect: false
-  database: rails_sample_app_development
+  database: rails_sample_app_test
   pool: 5
   username: postgres
   password: postgres
